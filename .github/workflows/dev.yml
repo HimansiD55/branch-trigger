@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - run: echo "Dev workflow running"
+      - run: echo "Dev workflow running on self-hosted"
